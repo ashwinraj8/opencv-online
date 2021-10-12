@@ -9,5 +9,5 @@ scipy>=0.15.1
 scikit-learn>=0.18
 matplotlib>=1.4.3
 pandas>=0.19
-opencv-python==3.4.1.15
+opencv-python==4.2.0.32
 dlib==19.9.0
